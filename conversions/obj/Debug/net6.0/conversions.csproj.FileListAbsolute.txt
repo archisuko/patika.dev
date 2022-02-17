@@ -1,0 +1,15 @@
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\conversions.exe
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\conversions.deps.json
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\conversions.runtimeconfig.json
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\conversions.dll
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\ref\conversions.dll
+C:\Users\Sukru\Desktop\patika-sukru\conversions\bin\Debug\net6.0\conversions.pdb
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.csproj.AssemblyReference.cache
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.AssemblyInfoInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.AssemblyInfo.cs
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.csproj.CoreCompileInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.dll
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\ref\conversions.dll
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.pdb
+C:\Users\Sukru\Desktop\patika-sukru\conversions\obj\Debug\net6.0\conversions.genruntimeconfig.cache
