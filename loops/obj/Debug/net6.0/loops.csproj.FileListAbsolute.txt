@@ -1,0 +1,15 @@
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\loops.exe
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\loops.dll
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\ref\loops.dll
+C:\Users\Sukru\Desktop\patika-sukru\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.dll
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\ref\loops.dll
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\Sukru\Desktop\patika-sukru\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
