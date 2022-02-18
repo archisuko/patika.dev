@@ -1,0 +1,15 @@
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.csproj.AssemblyReference.cache
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.AssemblyInfo.cs
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\try-catch-finally.exe
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\try-catch-finally.deps.json
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\try-catch-finally.runtimeconfig.json
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\try-catch-finally.dll
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\ref\try-catch-finally.dll
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\bin\Debug\net6.0\try-catch-finally.pdb
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.dll
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\ref\try-catch-finally.dll
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.pdb
+C:\Users\Sukru\Desktop\patika-sukru\try-catch-finally\obj\Debug\net6.0\try-catch-finally.genruntimeconfig.cache
