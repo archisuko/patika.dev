@@ -28,3 +28,23 @@ foreach (var i in dizi)
 }
 
 Console.WriteLine("Dizinin ortalaması:"+toplam/diziUzunluğu);
+
+Console.WriteLine("********************************************");
+int[] sayiDizisi = {54,765,24,85,752,88,45,96,8,1,75,2};
+
+foreach (var sayi in sayiDizisi) {
+    Console.WriteLine(sayi);
+}
+
+Console.WriteLine("Sort");
+Array.Sort(sayiDizisi);
+foreach (var sayi in sayiDizisi) {
+    Console.WriteLine(sayi);
+}
+
+Console.WriteLine("Clear");
+Array.Clear(sayiDizisi,3,1);
+foreach (var sayi in sayiDizisi) {
+    Console.WriteLine(sayi);
+}
+
