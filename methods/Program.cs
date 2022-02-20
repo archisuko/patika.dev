@@ -19,3 +19,30 @@ int artıCarpma(ref int i,ref int j) {
 Console.WriteLine(artıCarpma(ref x,ref y));
 Console.WriteLine(x);
 Console.WriteLine(y);
+
+Metotlar deneme = new Metotlar();
+
+deneme.EkranaYazdir(Carpma(x,y));
+string sonuc = Convert.ToString(Carpma(x,y));
+deneme.EkranaYazdir(sonuc);
+
+class Metotlar 
+{
+    public void EkranaYazdir(int i)
+    {
+        Console.WriteLine(i);
+    }
+
+    public void EkranaYazdir(string i)
+    {
+        Console.WriteLine(i);
+    }
+
+    public void EkranaYazdir(string i,string j)
+    {
+        Console.WriteLine(i + j);
+    }
+}
+
+
+
