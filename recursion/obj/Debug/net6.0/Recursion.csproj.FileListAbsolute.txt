@@ -1,0 +1,15 @@
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\ref\Recursion.dll
+C:\Users\Sukru\Desktop\patika-sukru\recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\ref\Recursion.dll
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\Sukru\Desktop\patika-sukru\recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
