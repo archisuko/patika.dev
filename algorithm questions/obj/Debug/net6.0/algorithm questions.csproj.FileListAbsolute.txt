@@ -1,0 +1,15 @@
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.csproj.AssemblyReference.cache
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.AssemblyInfoInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.AssemblyInfo.cs
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.csproj.CoreCompileInputs.cache
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\algorithm questions.exe
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\algorithm questions.deps.json
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\algorithm questions.runtimeconfig.json
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\algorithm questions.dll
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\ref\algorithm questions.dll
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\bin\Debug\net6.0\algorithm questions.pdb
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.dll
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\ref\algorithm questions.dll
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.pdb
+C:\Users\Sukru\Desktop\patika-sukru\algorithm questions\obj\Debug\net6.0\algorithm questions.genruntimeconfig.cache
